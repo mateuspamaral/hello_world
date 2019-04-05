@@ -6,6 +6,6 @@ public class Exercicio3 {
     }
 
     public static void main(String[] args) {
-        System.out.println(analisaNumInt(15));
+        System.out.println(analisaNumInt(9));
     }
 }
